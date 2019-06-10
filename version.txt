@@ -1,0 +1,6 @@
+@types/restify@5.0.6 -D
+restify@6.3.4 --save
+mongoose@4.13.9 -P -E
+@types/mongoose@4.7.32 -D -E
+restify-errors@5.0.0 -P -E
+@types/restify-errors@4.3.2 -D -E
