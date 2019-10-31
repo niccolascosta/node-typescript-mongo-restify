@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "5.4.19",
+    "mongoose": "5.7.7",
     "restify": "^8.3.3",
     "restify-errors": "^8.0.0"
   },
